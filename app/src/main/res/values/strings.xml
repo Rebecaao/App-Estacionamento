@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjetoEstacionamento</string>
+    <string name="col1">Placa</string>
+    <string name="col2">Entrada</string>
+    <string name="col3">Saida</string>
+    <string name="col4">R$</string>
+    <string name="row1">EDI566</string>
+    <string name="row2">13:20</string>
+    <string name="row3">15:05</string>
+    <string name="row4">R$10</string>
+</resources>
