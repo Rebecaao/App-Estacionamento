@@ -15,6 +15,7 @@ class MainActivity4 : AppCompatActivity() {
         val tempoEvalores = findViewById<ImageView>(R.id.tempoEvalores)
 
 
+
         vagasdisponiveis.setOnClickListener{
             val intent = Intent(this, MainActivity3::class.java)
             startActivity((intent))
@@ -26,5 +27,7 @@ class MainActivity4 : AppCompatActivity() {
             startActivity((intent))
             finish()
         }
+
+        
     }
 }
